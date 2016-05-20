@@ -58,7 +58,21 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+        background-color: floralwhite;
 }
+
+#bleu
+{
+    color:cornflowerblue;
+    font-weight: bold;
+}
+
+#titre
+{
+    text-decoration: underline;
+     color:brown;
+}
+
 
 #edito h2
 {
