@@ -70,7 +70,7 @@
 #titre
 {
     text-decoration: underline;
-     color:brown;
+     color:white;
 }
 
 
@@ -97,6 +97,8 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+            background-color:coral;
+
 }
 
 #footer
